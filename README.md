@@ -21,5 +21,6 @@ All work used to create the visualization can be found in the "Dashboard" folder
 https://public.tableau.com/app/profile/nicholas.o.brown/viz/PokeDexVisualization/Dashboard
 
 ## Data Set Sources 
-https://www.kaggle.com/datasets/abcsds/pokemon
+https://www.kaggle.com/datasets/abcsds/pokemon 
+
 https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_catch_rate
